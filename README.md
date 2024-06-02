@@ -8,7 +8,7 @@
 
 ## About
 
-This project enables chatting with multiple datasets, including Titanic, CarDekho, and Swiggy, in human language to extract insights. It utilizes LangChain's CSV Agent and Pandas DataFrame Agent, alongside OpenAI and Gemini APIs, to facilitate natural language interactions with structured data, aiming to uncover hidden insights through conversational AI.
+This project enables chatting with multiple CSV documents to extract insights. It utilizes LangChain's CSV Agent and Pandas DataFrame Agent, alongside OpenAI and Gemini APIs, to facilitate natural language interactions with structured data, aiming to uncover hidden insights through conversational AI.
 
 ## Features
 
