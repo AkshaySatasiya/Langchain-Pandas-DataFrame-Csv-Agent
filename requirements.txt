@@ -1,0 +1,8 @@
+openai
+langchain
+pandas
+tqdm
+ipywidgets
+google.generativeai
+langchain_google_genai 
+IPython
